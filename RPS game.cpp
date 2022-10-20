@@ -2,6 +2,12 @@
 #include <string>
 using namespace std;
 int main(){
+	/* This code is written for Rock Paper Scissor game. In this game first programme will ask user to continue or 
+	exit if user press for continue than programme will ask for names of both players than programme will ask for
+	moves. In last programme will show message to winning player with his name and smile face and in last programme will ask that 
+	does user want play again or exit if user goes for continue than same process will be followed and if user gos for exit than 
+	programme will be terminated.
+	*/
 	char p1_move, p2_move, smile = 1;
 string p1_name, p2_name;
 int num;
